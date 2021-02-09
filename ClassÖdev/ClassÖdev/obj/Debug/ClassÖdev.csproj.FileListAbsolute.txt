@@ -1,0 +1,7 @@
+C:\Users\resta\source\repos\ClassÖdev\ClassÖdev\bin\Debug\ClassÖdev.exe.config
+C:\Users\resta\source\repos\ClassÖdev\ClassÖdev\bin\Debug\ClassÖdev.exe
+C:\Users\resta\source\repos\ClassÖdev\ClassÖdev\bin\Debug\ClassÖdev.pdb
+C:\Users\resta\source\repos\ClassÖdev\ClassÖdev\obj\Debug\ClassÖdev.csprojAssemblyReference.cache
+C:\Users\resta\source\repos\ClassÖdev\ClassÖdev\obj\Debug\ClassÖdev.csproj.CoreCompileInputs.cache
+C:\Users\resta\source\repos\ClassÖdev\ClassÖdev\obj\Debug\ClassÖdev.exe
+C:\Users\resta\source\repos\ClassÖdev\ClassÖdev\obj\Debug\ClassÖdev.pdb
